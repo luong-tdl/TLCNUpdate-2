@@ -1,3 +1,7 @@
 BE nha
+<<<<<<< HEAD
 
 tao sua cho m conflig ne thang nhoc ec
+=======
+Tao sua cho minh conflig nha
+>>>>>>> 152561dfb6e954379fb9a61b0dc8c61e18b47eef
